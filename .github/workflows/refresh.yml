@@ -1,4 +1,4 @@
-name: Pages Build
+name: refresh
 
 on:
   push:
