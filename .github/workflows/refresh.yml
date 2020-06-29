@@ -2,9 +2,12 @@
 name: Refresh
 
 on:
+  push:
+    branches:
+      - gh-pages
   schedule:
-    - cron:  '54 6 * * *' # Runs every day at 3am
- 
+    - cron:  '19 7 * * *' # Runs every day at 3am
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
