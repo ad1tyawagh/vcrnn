@@ -1,5 +1,4 @@
 # Site settings
-
 title: Aditya Wagh
 firstname: Aditya
 secondname: Wagh
@@ -17,7 +16,6 @@ stackoverflow_username: 11957253/ad1tyawagh
 general_email: aditya@adityawagh.ml
 
 # Build settings 
-
 remote_theme: ad1tyawagh/ad1tyawagh.github.io
 markdown: kramdown
 kramdown:
@@ -33,9 +31,7 @@ sass:
   style: compressed
 
 # Other options
-
 permalink: blog/:title
-
 plugins:
 - github-pages
 - jekyll-seo-tag
