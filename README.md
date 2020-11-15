@@ -1,7 +1,3 @@
----
-layout: post
-title: Variable Computation In Recurrent Neural Networks
----
 # Variable Computation In Recurrent Neural Networks
 
 You can use the [editor on GitHub](https://github.com/ad1tyawagh/vcrnn/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
